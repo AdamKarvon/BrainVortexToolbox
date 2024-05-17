@@ -1,3 +1,7 @@
+# Code Written for the Spiral Wave Coordination in the Motor Cortex Thesis
+
+You will find all code used in producing the results of this thesis in the Folder Results-Main, some sample figures are also made available. Data-processing functions are essential for the consideration of motor task data in addition to the existing Brain vortex tool box funtions
+
 # BrainVortexToolbox
 MATLAB toolbox to automatically detect and analyse spiral wave patterns in the fMRI data, developed by Dr. Pulin Gong's group at University of Sydney. 
 
